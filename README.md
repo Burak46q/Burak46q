@@ -2,7 +2,7 @@
 - 👀 I'm interested in Python.
 - 🌱 I'm right now learning Sql.
 - 💞️ I’m looking to collaborate .
-- 📫 e-mail : tirasburak@gmail.com freelance : https://bionluk.com/buraktiras46
+- 📫 e-mail : tirasburak1@gmail.com freelance : https://bionluk.com/buraktiras46
 
 <!---
 Burak46q/Burak46q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
