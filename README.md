@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Burak46q
 - 👀 I'm interested in Python.
 - 🌱 I'm right now learning Sql.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate .
 - 📫 e-mail : tirasburak@gmail.com freelance : https://bionluk.com/buraktiras46
 
 <!---
